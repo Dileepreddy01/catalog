@@ -11,5 +11,4 @@ Given a polynomial of degree ( m ) represented as:
 The task is to find the constant term ( c ) using the roots provided in a specific format. The roots are encoded in different bases, and the goal is to decode these values and use them to find the polynomial coefficients.
 
 Requirements
-Node.js (version 12 or higher)
-NPM (Node Package Manager)
+Java (version 8 or higher)
